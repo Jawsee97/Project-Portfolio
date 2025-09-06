@@ -7,7 +7,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects and case
 - [SQL](#sql)
 - [Tableau](#tableau)
 
-# Data Engineering
+# 🧬 Data Engineering
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -15,7 +15,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects and case
 
 ***
 
-# SQL
+# 👾 SQL
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
@@ -23,7 +23,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects and case
 
 ***
 
-# Tableau
+# 📊 Tableau
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
