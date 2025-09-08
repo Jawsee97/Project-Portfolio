@@ -3,8 +3,8 @@
 Welcome to my data portfolio! Here, I document a summary of my projects and case studies in the data field!
 
 ## 📚 Table of Contents
-- [Data Engineering]([#data-engineering](https://github.com/Jawsee97/Project-Portfolio?tab=readme-ov-file#-data-engineering))
-- [SQL](#sql)
+- [Data Engineering](#-data-engineering)
+- [SQL](#-sql)
 - [Tableau](#tableau)
 
 # 🧬 Data Engineering
