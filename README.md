@@ -28,6 +28,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects and case
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
 | 🏡 [Yesi's Tiendita](Insert Link Here) | Visualized my findings for my families small business sales from Jan 2024-Aug 2025. Showed key insights for Sales over time, top/underpreforming products, and yearly revenue| [Dashboard](Insert Dashboard Link) |
-| 🦠 [Global Co2 Emissions ](Insert Link Here) | Visualized data for Global Co2 Emissions between the years 1750-2021. Showed key insights for Co2 Emissions by country, by population, and the global share of emissions by year leading back from the 1700's to the 21st century. | [Dashboard](Insert Dashboard link) |
+| 🏭☁️ [Global Co2 Emissions ](Insert Link Here) | Visualized data for Global Co2 Emissions between the years 1750-2021. Showed key insights for Co2 Emissions by country, by population, and the global share of emissions by year leading back from the 1700's to the 21st century. | [Dashboard](Insert Dashboard link) |
 
 ***
