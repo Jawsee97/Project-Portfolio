@@ -11,7 +11,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects and case
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 📈 [Yesi's Tiendita](https://github.com/Jawsee97/Yesis-Tiendita-Excel-Project#-yesis-tiendita-sales-project) | August 2025 | Excel, Functions, Formulas, and Pivot Tables | Designed, created and deployed a data model for my families small business using Excel. This project encompassed uploading completely new data (since my parents had NO data to go off of), performing data transformation using Excel functions, formulas and pivot tables, and ultimately, creating a dashboard to see insights for my families store sales between Jan 2024 - Aug 2025 ! |
+| 📈 [Yesi's Tiendita](https://github.com/Jawsee97/Yesis-Tiendita-Excel-Project#-yesis-tiendita-sales-project) | August 2025 | Excel, Functions, Formulas, and Pivot Tables | Designed, created and deployed a data model for my families small business using Excel. This project encompassed uploading completely new data (since my parents had little to NO data to go off of), performing data transformation using Excel functions, formulas and pivot tables, and ultimately, creating a dashboard to see insights for my families store sales between Jan 2024 - Aug 2025 ! |
 
 ***
 
