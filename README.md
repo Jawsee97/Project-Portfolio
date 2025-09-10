@@ -19,7 +19,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects and case
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 👨🏽‍💻 [8-Week SQL Challenges](https://github.com/Jawsee97/8-week-SQL-Challenge/tree/main?tab=readme-ov-file#-8-week-sql-challenges) | Data analysis, data cleaning, data transformation | This repository serves as the solution for 1/8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills! | 
+| 👨🏽‍💻 [8-Week SQL Challenges](https://github.com/Jawsee97/8-week-SQL-Challenge/tree/main#-8-week-sql-challenges) | Data analysis, data cleaning, data transformation | This repository serves as the solution for 1/8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills! | 
 
 ***
 
